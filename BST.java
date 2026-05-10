@@ -1,3 +1,10 @@
+/**
+ * Árbol Binario de Búsqueda (BST) - Implementación en Java
+ * Universidad Da Vinci de Guatemala
+ * Curso: Estructuras de Datos
+ * Estudiante: Roberto Estuardo Chavarría Zelada
+ * Carnet: 202504060
+ */
 class Nodo {
     int valor;
     Nodo izq, der;
