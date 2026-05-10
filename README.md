@@ -19,7 +19,7 @@ Implementación desde cero de un **Árbol Binario de Búsqueda** que almacena n�
 
 ## 🎥 Video de Defensa
 
-📺 **Enlace al video en YouTube:** [PEGAR AQUÍ EL ENLACE DE TU VIDEO]
+📺 **Enlace al video en YouTube:** https://youtu.be/DBjGJEg_5-4
 
 > El video (máximo 5 minutos) demuestra:
 > - Ejecución en vivo del programa con inserción y eliminación de valores
