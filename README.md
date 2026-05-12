@@ -3,6 +3,11 @@
 Implementación desde cero de un **Árbol Binario de Búsqueda** que almacena números enteros, sin utilizar librerías nativas de árboles de Java.
 
 ---
+## Fase 1 - Fichas Técnicas
+
+Las fichas técnicas de las estructuras arbóreas investigadas se encuentran en el siguiente archivo PDF:
+
+[Ver Fichas Técnicas en PDF](./Fichas_Tecnicas_Estructuras_Arboreas_Roberto_Chavarria.pdf)
 
 ## 📋 Información del Proyecto
 
